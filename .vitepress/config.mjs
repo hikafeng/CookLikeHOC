@@ -17,7 +17,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       ...nav,
-      { text: 'GitHub', link: 'https://github.com/Gar-b-age/CookLikeHOC' },
+      { text: 'GitHub', link: 'https://github.com/hikafeng/CookLikeHOC' },
     ],
     sidebar,
     search: { provider: 'local' },
